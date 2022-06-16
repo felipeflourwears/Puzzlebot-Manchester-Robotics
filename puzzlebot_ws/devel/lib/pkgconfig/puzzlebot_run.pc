@@ -1,0 +1,8 @@
+prefix=/home/lftronic/Documents/code/ROS/puzzlebot_workspace_backup/puzzlebot_ws/devel
+
+Name: puzzlebot_run
+Description: Description of puzzlebot_run
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
