@@ -14,11 +14,10 @@ linealVel = 0.1
 kp = 0.00075
 kd = 0.000075
 
-TIME_THRESHOLD = 4.5
-
 THETA_THRESHOLD = 10.0 * pi / 180.0
 DIST_THRESHOLD = 0.1
 
+TIME_THRESHOLD = 4.5
 COUNTER_THRESHOLD = 4
 
 CMD_VEL_GO_2_GOAL = "/cmd_vel"
@@ -36,7 +35,7 @@ class Navigator():
         self.pastAngularError = 0
         self.pastAngularErrorAbs = 0
 
-        self.counter = 5
+        self.counter = 4
         self.counterNAN = 0
 
         ##################
