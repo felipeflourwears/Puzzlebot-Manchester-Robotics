@@ -18,6 +18,11 @@
         <img src="https://github.com/felipeflourwears/Puzzlebot-Manchester-Robotics/blob/master/Documentation/Tools/Gazebo.PNG" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/felipeflourwears/Puzzlebot-Manchester-Robotics/blob/master/Documentation/Tools/ROS.PNG" alt="c" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/felipeflourwears/Puzzlebot-Manchester-Robotics/blob/master/Documentation/Tools/Tensorflow.png" alt="c" width="40" height="40"/> </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/felipeflourwears/Puzzlebot-Manchester-Robotics/blob/master/Documentation/Tools/opencv.png" alt="c" width="40" height="40"/> </a>
+        
 </p>
 
 <hr>
