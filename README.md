@@ -1,5 +1,5 @@
-<h1 align="center">Puzzlebot</h1>
-<h3 align="center">Implementation of a line follower robot with Computer Vision and DeepLearning, with a Jetson Nano card developed with Python using libraries such as OpenCV and Tensor Flow, ROS (Robot Operating Systems) a framework for the development of robot software and Gazebo a 3D simulator .</h3>
+<h1 align="left">Puzzlebot</h1>
+<h3 align="left">Implementation of a line follower robot with Computer Vision and DeepLearning, with a Jetson Nano card developed with Python using libraries such as OpenCV and Tensor Flow, ROS (Robot Operating Systems) a framework for the development of robot software and Gazebo a 3D simulator .</h3>
 
 <hr>
 <section>
